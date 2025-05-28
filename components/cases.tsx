@@ -18,17 +18,23 @@ export const Case = () => {
     "/Logo-2.png",
     "/Logo-3.png",
     "/Logo-4.png",
+    "/AV-LOGO.png",
     "/Logo-1.png",
     "/Logo-2.png",
     "/Logo-3.png",
     "/Logo-4.png",
+    "/AV-LOGO.png",
     "/Logo-1.png",
     "/Logo-2.png",
     "/Logo-3.png",
     "/Logo-4.png",
+    "/AV-LOGO.png",
     "/Logo-1.png",
     "/Logo-2.png",
     "/Logo-3.png",
+    "/Logo-4.png",
+    "/AV-LOGO.png",
+
   ];
 
   useEffect(() => {
