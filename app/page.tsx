@@ -3,7 +3,7 @@ import { Case } from "@/components/cases";
 import { Contact1 } from "@/components/contact";
 import { CTA2 } from "@/components/cta";
 import { FAQ2 } from "@/components/faq";
-import { Feature4 } from "@/components/feature 4";
+import { Feature4 } from "@/components/feature4";
 import { Feature } from "@/components/features";
 import { Feature2 } from "@/components/features2";
 import { Feature3 } from "@/components/features3";
