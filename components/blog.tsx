@@ -1,5 +1,4 @@
-import { MoveRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import Image from "next/image";
 
 export const Blog = () => (
   <div className="w-full py-20 lg:py-40 px-4">
@@ -19,7 +18,7 @@ export const Blog = () => (
             rel="noopener noreferrer"
             className="flex flex-col gap-2"
           >
-            <img
+            <Image
               src="https://realtime1.com.br/wp-content/uploads/2025/05/focus-on-laptop-running-ai-cognitive-computing-tec-2025-02-20-00-09-29-utc-2048x1365.jpg"
               alt="Capa do artigo sobre agentes de IA"
               className="rounded-md aspect-video object-cover mb-4"
@@ -41,7 +40,7 @@ export const Blog = () => (
             rel="noopener noreferrer"
             className="flex flex-col gap-2"
           >
-            <img
+            <Image
               src="https://forbes.com.br/wp-content/uploads/2025/02/agentes-de-IA.png"
               alt="Capa do artigo sobre agentes de IA"
               className="rounded-md aspect-video object-cover mb-4"
@@ -63,7 +62,7 @@ export const Blog = () => (
             rel="noopener noreferrer"
             className="flex flex-col gap-2"
           >
-            <img
+            <Image
               src="https://forbes.com.br/wp-content/uploads/2025/05/Agentes-de-IA-JPMorgan.png"
               alt="Capa do artigo sobre agentes de IA"
               className="rounded-md aspect-video object-cover mb-4"
@@ -85,7 +84,7 @@ export const Blog = () => (
             rel="noopener noreferrer"
             className="flex flex-col gap-2"
           >
-            <img
+            <Image
               src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/possessed-photography-zbLW0FG8XU8-unsplash.jpg?w=420&h=240&crop=1&quality=85"
               alt="Capa do artigo sobre agentes de IA"
               className="rounded-md aspect-video object-cover mb-4"

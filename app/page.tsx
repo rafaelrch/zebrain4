@@ -11,7 +11,6 @@ import { Footer1 } from "@/components/footer";
 import { Hero } from "@/components/hero";
 
 import { Testimonials } from "@/components/testimonials";
-import Image from "next/image";
 
 export default function Home() {
   return (

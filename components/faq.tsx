@@ -1,4 +1,3 @@
-import { Check, PhoneCall } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import {
   Accordion,
@@ -6,7 +5,6 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { Button } from "@/components/ui/button";
 
 const faqItems = [
   {

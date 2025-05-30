@@ -1,4 +1,4 @@
-import { MoveRight, PhoneCall } from "lucide-react";
+import { PhoneCall } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
